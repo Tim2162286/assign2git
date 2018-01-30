@@ -1,3 +1,3 @@
 # assign2git
 Timothy Cuprak
-This is a README
+This program is currently nonexistent
